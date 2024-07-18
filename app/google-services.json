@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "181151332185",
+    "project_id": "login-dans-4485e",
+    "storage_bucket": "login-dans-4485e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181151332185:android:4023d0513e469bc76b7e48",
+        "android_client_info": {
+          "package_name": "com.pascal.dansandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK2xRbFTcvxuhGDJMES00F0rQlxRnNvqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181151332185:android:e03de18cf65fecc16b7e48",
+        "android_client_info": {
+          "package_name": "com.pascal.dansandroid.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK2xRbFTcvxuhGDJMES00F0rQlxRnNvqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
